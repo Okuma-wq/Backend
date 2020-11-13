@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Media\\Media.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Registro Counter Strike\\Registro Counter Strike.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Media\\Media.csproj": {
+    "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Registro Counter Strike\\Registro Counter Strike.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Media\\Media.csproj",
-        "projectName": "Media",
-        "projectPath": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Media\\Media.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Registro Counter Strike\\Registro Counter Strike.csproj",
+        "projectName": "Registro Counter Strike",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Registro Counter Strike\\Registro Counter Strike.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Media\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Registro Counter Strike\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

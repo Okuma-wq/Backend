@@ -14,3 +14,4 @@ C:\Users\pedro\Desktop\Projetos\Backend\Console\Semáforo\obj\Debug\net5.0\Semá
 C:\Users\pedro\Desktop\Projetos\Backend\Console\Semáforo\obj\Debug\net5.0\ref\Semáforo.dll
 C:\Users\pedro\Desktop\Projetos\Backend\Console\Semáforo\obj\Debug\net5.0\Semáforo.pdb
 C:\Users\pedro\Desktop\Projetos\Backend\Console\Semáforo\obj\Debug\net5.0\Semáforo.genruntimeconfig.cache
+C:\Users\dev\Desktop\Tarde\Backend\Console\Semáforo\obj\Debug\net5.0\Semáforo.pdb

@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.exe
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.deps.json
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.runtimeconfig.json
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.dll
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\bin\Debug\netcoreapp3.1\Registro Counter Strike.pdb
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.AssemblyInfo.cs
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.dll
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.pdb
+C:\Users\dev\Desktop\Tarde\Backend\Console\Registro Counter Strike\obj\Debug\netcoreapp3.1\Registro Counter Strike.genruntimeconfig.cache

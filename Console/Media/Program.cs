@@ -6,6 +6,9 @@ namespace Media
     {
         static void Main(string[] args)
         {
+            Console.Write("Escreva o nome do aluno: ");
+            string nome = Console.ReadLine();
+            
             Console.Write("Digite a primeira nota: ");
             double nota1 = double.Parse(Console.ReadLine());
 
@@ -24,7 +27,7 @@ namespace Media
                 situacao = "Reprovado";
             }
 
-            Console.WriteLine(situacao);
+            Console.WriteLine(nome + " foi " + situacao);
         }
     }
 }

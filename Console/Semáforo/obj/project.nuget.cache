@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4xa3Y42EnJOmZQkSL/xaM2B5NSXI1HIs1sgnvJ/b5K3Vt431kmTH2EaD574GIGnZwBj1DaMwJ0bXjveD0tt7w==",
+  "dgSpecHash": "9MCjYONHsa5vCzv7wNsk+K+tsqhvIGOroknNGUKgXodhuKeOLhrGQckDmZ8tlE5/y+9MwUQ0n1UpbBg3NAoqpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Projetos\\Backend\\Console\\Semáforo\\Semáforo.csproj",
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\Tarde\\Backend\\Console\\Semáforo\\Semáforo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
