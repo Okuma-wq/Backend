@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.exe
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.deps.json
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.dll
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\ref\Media.dll
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\bin\Debug\net5.0\Media.pdb
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.dll
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\ref\Media.dll
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.pdb
+C:\Users\pedro\Desktop\Projetos\Backend\Console\Media\obj\Debug\net5.0\Media.genruntimeconfig.cache
